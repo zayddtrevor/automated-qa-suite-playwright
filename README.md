@@ -1,26 +1,10 @@
-\# Automated QA Suite (Playwright)
+# Automated QA Suite (Playwright)
 
 
 
-An automated UI testing suite built using \*\*Playwright\*\* to validate critical user workflows of a web-based ticketing system.  
+An automated UI testing suite built using **Playwright** to validate critical user workflows of a web-based ticketing system.  
 
-This project demonstrates the transition from \*\*manual QA\*\* to \*\*automated end-to-end (E2E) testing\*\*.
-
-
-
----
-
-
-
-\## 🚀 Technologies Used
-
-
-
-\- \*\*Playwright\*\* – Core automation framework  
-
-\- \*\*Node.js\*\* – JavaScript runtime environment  
-
-\- \*\*JavaScript\*\* – Scripting language for test logic  
+This project demonstrates the transition from **manual QA** to **automated end-to-end (E2E) testing**.
 
 
 
@@ -28,19 +12,35 @@ This project demonstrates the transition from \*\*manual QA\*\* to \*\*automated
 
 
 
-\## 🧪 Test Coverage
+## 🚀 Technologies Used
 
 
 
-\### 1. Login Flow
+- **Playwright** – Core automation framework  
 
-\- Navigates to the application login page
+- **Node.js** – JavaScript runtime environment  
 
-\- Inputs valid user credentials
+- **JavaScript** – Scripting language for test logic  
 
-\- Submits the form and verifies successful redirection
 
-\- Confirms the presence of dashboard-specific UI elements
+
+---
+
+
+
+## 🧪 Test Coverage
+
+
+
+### 1. Login Flow
+
+- Navigates to the application login page
+
+- Inputs valid user credentials
+
+- Submits the form and verifies successful redirection
+
+- Confirms the presence of dashboard-specific UI elements
 
 
 
@@ -60,7 +60,7 @@ This project demonstrates the transition from \*\*manual QA\*\* to \*\*automated
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -80,7 +80,7 @@ tests/
 
 
 
-\## ⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 
 
 
@@ -112,7 +112,7 @@ npx playwright install
 
 
 
-\## ▶️ Running Tests
+## ▶️ Running Tests
 
 
 
@@ -156,15 +156,15 @@ npx playwright show-report
 
 
 
-\## 🎯 Key Learning Outcomes
+## 🎯 Key Learning Outcomes
 
 
 
-\* Automating repetitive manual QA workflows
+* Automating repetitive manual QA workflows
 
-\* Writing reliable UI assertions for validation
+* Writing reliable UI assertions for validation
 
-\* Understanding E2E browser testing concepts
+* Understanding E2E browser testing concepts
 
 \* Managing a professional QA automation repository on GitHub
 
